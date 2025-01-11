@@ -1,7 +1,7 @@
 # Sentinel Dockerfiles for Testnet & Mainnet
 
 **Credits**  
-- **TrinityStake** for the supporting guides.  
+- **TrinityStake** for the great supporting guides.  
 - **Busurnode** for script shells and testnet support.  
 - **Misfits (The Expanse)** for authoring this README (10 JAN 2025).
 
